@@ -1,5 +1,6 @@
 # Big-Data-SQL-Market-Analysis
 Completed a SQL analysis project using a large Market orders dataset with millions of rows.The analysis focuses on real-world customer,market behaviour, including product demand, reorder patterns, cart size and ordering trends.
+
 Task:
 1.	What are the top 10 aisles with the highest number of products?
 2.	How many unique departments are there in the dataset?
